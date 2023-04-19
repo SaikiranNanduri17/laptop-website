@@ -6,3 +6,18 @@ body {
     text-align: center;
     color: bisque;
 }
+.fix {
+    font-size: 25px;
+    
+}
+.amazon {
+    background-color: aqua;
+    position: fixed;
+}
+
+.e {
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    background-color: blueviolet;
+}
